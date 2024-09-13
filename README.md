@@ -5,7 +5,7 @@
 - 👀 Eu estou interresado...aplicativos, sites e jogos
 - 🌱 Atualmente estou aprendendo...Html,css e JavaScrip
 - 💞️ Procuro colaborar com os projetos de pensamento computacional
-- 📫 Entre em contato comigo..puton.rafaela@escola.pr.gov.br
+- 📫 Entre em contato comigo... puton.rafaela@escola.pr.gov.br
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
